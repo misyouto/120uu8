@@ -27,7 +27,7 @@ Deploy.
  -e VNC_PASSWD="168168" \
  -e GEOMETRY="1280x720" \
  -e DEPTH=32 \
- bclswl0827/gsm-sniffing-docker:latest
+ 120uu8/gsm-sniffing-docker:latest
 ```
 
 ## Connect
